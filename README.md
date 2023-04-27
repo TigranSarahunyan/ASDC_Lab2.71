@@ -19,4 +19,4 @@
 
 ```bash
   mvn clean package
-  ваше расположение файла\Lab271Maven\target\Lab27Maven-1.0-SNAPSHOT.jar
+  ваше расположение проекта\Lab271Maven\target\Lab27Maven-1.0-SNAPSHOT.jar
